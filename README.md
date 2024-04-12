@@ -15,4 +15,7 @@ keys (ctrl + alt + .), very helpful when you want to record gameplay without lea
 Right now it has only basic features like showing temperature, usage and FPS.
 I'm planning to add other indicators ssd usage, voltages, frequency, power consumption and many more.
 
+## Caveats
+So far it works only in games with borderless fullscreen. 
+
 
