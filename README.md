@@ -3,8 +3,8 @@
 ## What is it ?
 It's application to monitor hardware for gamers/overclockers. 
 Made it for myself to check how my cooling behave during playing games. There is similar software but none which
-meet my expectations. It allows to change look and feel - where informations are rendered on monitor and change it. 
-Most important think is that it shows temperature/load and FPS. 
+meet my expectations. It allows to change look and feel - where informations are rendered and change it. 
+Most important think is that it shows temperature, CPU/GPU usage and FPS. 
 
 ## How to run it ?
 Install or download ZIP and run :) 
