@@ -16,6 +16,6 @@ Right now it has only basic features like showing temperature, usage and FPS.
 I'm planning to add other indicators ssd usage, voltages, frequency, power consumption and many more.
 
 ## Caveats
-So far it works only in games with borderless fullscreen. 
+So far it works only in games with borderless fullscreen because it's made in WPF but working on capturing directx/opengl drawing context. 
 
 
